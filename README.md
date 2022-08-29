@@ -18,7 +18,7 @@ You are free to add any function to your libft as you see fit.
 - #### Functions from `<ctype.h>` library
 |||
 -|-
-`ft_isascii`|*test for ASCII character.*
+[`ft_isascii`](https://github.com/hmakino8/42tokyo/blob/master/42cursus/Libft/ft_isascii.c)|*test for ASCII character.*
 `ft_isalnum`|*alphanumeric character test.*
 `ft_isalpha`|*alphabetic character test.*
 `ft_isdigit`|*decimal-digit character test.*
