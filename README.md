@@ -15,21 +15,21 @@ Write your own library, containing an extract of important functions for your cu
 You are free to add any function to your libft as you see fit.
 
 ## Functions List 
-- ### Functions from `<ctype.h>` library
+- #### Functions from `<ctype.h>` library
 |||
 -|-
-**`ft_isascii`**|test for ASCII character.
-**`ft_isalnum`**|alphanumeric character test.
-**`ft_isalpha`**|alphabetic character test.
-**`ft_isdigit`**|decimal-digit character test.
+`ft_isascii`|*test for ASCII character.*
+`ft_isalnum`|*alphanumeric character test.*
+`ft_isalpha`|*alphabetic character test.*
+`ft_isdigit`|*decimal-digit character test.*
 **`ft_isprint`**|printing character test (space character inclusive).
 **`ft_tolower`**|upper case to lower case letter conversion.
 **`ft_toupper`**|lower case to upper case letter conversion.
-- ### Functions from `<stdlib.h>` library
+- #### Functions from `<stdlib.h>` library
 |||
 -|-
 **`ft_atoi`**|convert ASCII string to integer.
-- ### Functions from `<strings.h>` library
+- #### Functions from `<strings.h>` library
 |||
 -|-
 **`ft_bzero`**|write zeroes to a byte string.
@@ -39,7 +39,7 @@ You are free to add any function to your libft as you see fit.
 **`ft_memmove`**|copy byte string.
 **`ft_memcpy`**|copy memory area.
 **`ft_memccpy`**|copy string until character found.
-- ### Functions from `<string.h>` library
+- #### Functions from `<string.h>` library
 |||
 |-|-|
 **`ft_strlen`**|find length of string.
@@ -55,7 +55,7 @@ You are free to add any function to your libft as you see fit.
 **`ft_strcat`**|concatenate strings (s2 into s1).
 **`ft_strncat`**|concatenate strings (s2 into s1, size-bounded).
 **`ft_strlcat`**|size-bounded string concatenation.
-- ### Non-standard functions
+- #### Non-standard functions
 |||
 |-|-|
 **`ft_putchar`**|output a character to stdout.
@@ -71,7 +71,7 @@ You are free to add any function to your libft as you see fit.
 **`ft_strjoin`**|concatenate two strings into a new string (with malloc).
 **`ft_split`**|split string, with specified character as delimiter, into an array of strings.
 **`ft_strmapi`**|create new string from modifying string with specified function.
-- ### Linked list functions
+- #### Linked list functions
 |||
 -|-
 **`ft_lstnew`**|create new list.
