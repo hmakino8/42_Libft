@@ -2,9 +2,9 @@
 *A project to reimplement the C library.*
 
 ## Program name
-libft.a
+`libft.a`
 ## Turn in files
-*.c, libft.h, Makefile
+`*.c`, `libft.h`, `Makefile`
 ## Usage
 To compile the library, run:
 ```sh
