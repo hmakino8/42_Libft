@@ -44,7 +44,6 @@ You are free to add any function to your libft as you see fit.
 [`ft_strlen`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strlen.c)|find length of string.
 [`ft_strchr`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strchr.c)|locate character in string (first occurrence).
 [`ft_strrchr`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strrchr.c)|locate character in string (last occurence).
-[`ft_strstr`]()|locate a substring in a string.
 [`ft_strnstr`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strnstr.c)|locate a substring in a string (size-bounded).
 [`ft_strncmp`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strncmp.c)|compare strings (size-bounded).
 [`ft_strlcpy`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strlcpy.c)|copy strings.
