@@ -1,5 +1,4 @@
 # Libft
-*A project to reimplement the C library.*
 
 ### Program name
 `libft.a`
