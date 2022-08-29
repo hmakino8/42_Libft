@@ -14,7 +14,7 @@ $ make
 Write your own library, containing an extract of important functions for your cursus.<br>
 You are free to add any function to your libft as you see fit.
 
-### Functions List 
+## Functions List 
 - #### Functions from `<ctype.h>` library
 |||
 -|-
