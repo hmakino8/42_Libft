@@ -38,9 +38,6 @@ You are free to add any function to your libft as you see fit.
 [`ft_memcmp`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_memcmp.c)|compare byte string.
 [`ft_memmove`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_memmove.c)|copy byte string.
 [`ft_memcpy`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_memcpy.c)|copy memory area.
-- #### Functions from `<string.h>` library
-|||
-|-|-|
 [`ft_strlen`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strlen.c)|find length of string.
 [`ft_strchr`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strchr.c)|locate character in string (first occurrence).
 [`ft_strrchr`](https://github.com/hmakino8/42_Libft/blob/main/Libft/ft_strrchr.c)|locate character in string (last occurence).
