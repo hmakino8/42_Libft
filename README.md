@@ -1,20 +1,20 @@
 # Libft
 *A project to reimplement the C library.*
 
-## Program name
+### Program name
 `libft.a`
-## Turn in files
+### Turn in files
 `*.c`, `libft.h`, `Makefile`
-## Usage
+### Usage
 To compile the library, run:
 ```sh
 $ make
 ```
-## Description
+### Description
 Write your own library, containing an extract of important functions for your cursus.<br>
 You are free to add any function to your libft as you see fit.
 
-## Functions List 
+### Functions List 
 - #### Functions from `<ctype.h>` library
 |||
 -|-
